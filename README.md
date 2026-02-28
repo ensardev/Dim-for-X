@@ -25,7 +25,7 @@ X removed the Dim theme in February 2026, leaving only pitch black and white. **
 ## Installation
 
 ### Chrome Web Store
-Coming soon.
+🌐 **[Add to Chrome](https://chromewebstore.google.com/detail/dim-for-x/fbbfomjcmfienhnchadimbcpaijoenog)**
 
 ### Manual (Developer Mode)
 
